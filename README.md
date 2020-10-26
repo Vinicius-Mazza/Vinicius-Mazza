@@ -18,7 +18,7 @@
 <!-- thropy -->
   <div>
     <p align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Vinicius-Mazza&theme=dracula"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=Vinicius-Mazza&column=7&theme=dracula"/>
     </p>
   </div>
 
