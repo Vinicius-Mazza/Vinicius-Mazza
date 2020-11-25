@@ -29,7 +29,7 @@
     </p>
   </div>
 
-### Languages and Tools:
+<h4>Languages and Tools:</h4>
 <!-- programming langs / tools i work-->
   <p align="center">
     <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" width="25px" height="25px"/>
