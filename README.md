@@ -61,10 +61,13 @@
 <!-- websites and link -->
   <p align="center">
     <a href="https://linkedin.com/in/vinicius-mazza" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vinicius" height="20" width="20" />
+      <img align="center" src="https://img.shields.io/badge/-Vinicius%20Mazza-292837?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-mazza/" alt="vinicius" />
     </a>
-    <a href="https://github.com/Vinicius-Mazza" target="blank">
+    <!-- <a href="https://github.com/Vinicius-Mazza" target="blank">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="vinicius" height="20" width="20" />
+    </a> -->
+    <a href="mailto:vinicius-mazza@protonmail.com" target="blank">
+      <img align="center" src="https://img.shields.io/badge/-vinicius--mazza@protonmail.com-292837?style=flat-square&logo=Protonmail&logoColor=white" alt="email" />
     </a>
   </p>
 </div>
