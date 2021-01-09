@@ -57,9 +57,7 @@
   </p>
 </div>
 
-<p align="left">
-  💌 You can contact me: ⤵️
-</p>
+### 💌 You can contact me: ⤵️
 
 <p align="left">
 
