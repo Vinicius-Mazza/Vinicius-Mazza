@@ -41,8 +41,7 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/git-13-569377.png" alt="Git"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/github-1521500-1288242.png" alt="github"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/terminal-13-438866.png" alt="terminal"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png
-" alt="vscode"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png" alt="vscode"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/npm-226037.png" alt="npm"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/yarn-2752015-2284832.png" alt="yarn"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/heroku-5-569467.png" alt="Heroku"/></code>
