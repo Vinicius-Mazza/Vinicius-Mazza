@@ -9,10 +9,7 @@
   In the programming area I focus on learning and mastering various technologies, at the moment I am studying some frameworks like Django, Ruby on Rails, Angular and Flutter. I am also focused on mastering fluency in English.
 </p>
 
-
-<p align="left">
-  🚀 My Skills:
-</p>
+### 🚀 My Skills:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
@@ -33,9 +30,8 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png" alt="Java"/></code>
 <br>
-<p align="left">
-  💼 Tools and systems:
-</p>
+
+### 💼 Tools and systems:
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/linux-3049927-2538320.png" alt="Linux"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/windows-3050920-2538288.png" alt="Windows"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/git-13-569377.png" alt="Git"/></code>
@@ -46,18 +42,17 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/yarn-2752015-2284832.png" alt="yarn"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/heroku-5-569467.png" alt="Heroku"/></code>
 
-<p align="left">
-  ⭐ status of my github:
-</p>
+
+### ⭐ status of my github:
 
 <div>
-  <p align="center">
+  <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=Vinicius-Mazza&column=7&theme=dracula"/>
   </p>
 </div>
 
-<div align="center">
-  <p align="center">
+<div align="left">
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Mazza&show_icons=true&theme=dracula" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Mazza&layout=compact&theme=dracula" alt="languages" height="165">
   </p>
 </div>
