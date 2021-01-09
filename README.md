@@ -40,8 +40,7 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/windows-3050920-2538288.png" alt="Windows"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/git-13-569377.png" alt="Git"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/github-1521500-1288242.png" alt="github"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/terminal-15-439174.png
-" alt="terminal"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/terminal-13-438866.png" alt="terminal"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png
 " alt="vscode"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/npm-226037.png" alt="npm"/></code>
