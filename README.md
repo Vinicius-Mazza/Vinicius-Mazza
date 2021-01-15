@@ -32,7 +32,7 @@
 <br>
 
 ### 💼 Tools and systems:
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/linux-3049927-2538320.png" alt="Linux"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/linux-17-570099.png" alt="Linux"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/windows-3050920-2538288.png" alt="Windows"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/git-13-569377.png" alt="Git"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/github-1521500-1288242.png" alt="github"/></code>
