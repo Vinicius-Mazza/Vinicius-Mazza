@@ -4,9 +4,9 @@
 
 ## 💜 Hi, my name is <strong>Vinicius Mazza </strong>👋
 <p align="left"> 
-  I am currently 20 years old and I am in college in the area of ​​<strong>Computer Science</strong>, I am a technology student since the age of 12 with a focus on the area of ​​information security, but in these last years during my first internship in the IT area I got a great interest in the programming area. And now I'm looking for opportunities in that area.
+ I am 20 years old and I am in college in the area of ​​computer science, I am a technology student since I was 12 years old with a focus on the area of ​​information security, however in these last years during my first internship in the IT area I got a great interest in programming area. And I recently got a job in the area. I am currently a systems development analyst.
 
-  In the programming area I focus on learning and mastering various technologies, at the moment I am studying some frameworks like Django, Ruby on Rails, Angular and Flutter. I am also focused on mastering fluency in English.
+In the programming area I focus on learning and mastering various technologies, at the moment I am studying some frameworks like Django, Ruby on Rails, Angular and Flutter. I am also focused on mastering fluency in English.
 </p>
 
 ### 🚀 My Skills:
