@@ -13,11 +13,7 @@ In the programming area I focus on learning and mastering various technologies, 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="VueJs"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/rails-2-1175112.png" alt="RubyOnRails"/></code>
@@ -25,18 +21,12 @@ In the programming area I focus on learning and mastering various technologies, 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" alt="MongoDB"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="Ruby"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png" alt="Java"/></code>
 <br>
 
 ### 💼 Tools and systems:
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/linux-17-570099.png" alt="Linux"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/windows-3050920-2538288.png" alt="Windows"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/git-13-569377.png" alt="Git"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/github-34-225988.png" alt="github"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/terminal-32-1136218.png" alt="terminal"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png" alt="vscode"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/npm-226037.png" alt="npm"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/yarn-2752015-2284832.png" alt="yarn"/></code>
