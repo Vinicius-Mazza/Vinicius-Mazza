@@ -2,11 +2,11 @@
  
 <!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=viniciu%24mazza2552&cover_image=true&theme=default" min-width="400px" max-width="200px" width="200px" align="right" alt="Image"> -->
 
-## 💜 Hi, my name is <strong>Vinicius Mazza </strong>👋
+## Hi, my name is <strong>Vinicius Mazza </strong>👋
 <p align="left"> 
- I am 20 years old and I am in college in the area of ​​computer science, I am a technology student since I was 12 years old with a focus on the area of ​​information security, however in these last years during my first internship in the IT area I got a great interest in programming area. And I recently got a job in the area. I am currently a systems development analyst.
+I'm 23 years old and have been passionate about technology since the age of 12, particularly drawn to the realm of information security. However, during my recent years, my first internship in IT sparked a profound interest in programming. I've since landed a position in this field, currently working as a systems development analyst.
 
-In the programming area I focus on learning and mastering various technologies, at the moment I am studying some frameworks like Django, Ruby on Rails, Angular and Flutter. I am also focused on mastering fluency in English.
+Within programming, I'm dedicated to continuous learning and honing my skills across various technologies. Currently, I'm immersed in studying several JavaScript frameworks. Additionally, I'm actively pursuing fluency in English to further augment my capabilities.
 </p>
 
 ### 🚀 My Skills:
@@ -16,22 +16,11 @@ In the programming area I focus on learning and mastering various technologies, 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" alt="PHP"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="VueJs"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/rails-2-1175112.png" alt="RubyOnRails"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/electronjs-2749260-2284650.png" alt="Electron"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" alt="MongoDB"/></code>
 <br>
-
-### 💼 Tools and systems:
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/linux-17-570099.png" alt="Linux"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/windows-3050920-2538288.png" alt="Windows"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/github-34-225988.png" alt="github"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png" alt="vscode"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/npm-226037.png" alt="npm"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/yarn-2752015-2284832.png" alt="yarn"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/heroku-5-569467.png" alt="Heroku"/></code>
-
 
 ### ⭐ status of my github:
 
