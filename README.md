@@ -4,7 +4,7 @@
 
 ## Hi, my name is <strong>Vinicius Mazza </strong>👋
 <p align="left"> 
-I'm 23 years old and have been passionate about technology since the age of 12, particularly drawn to the realm of information security. However, during my recent years, my first internship in IT sparked a profound interest in programming. I've since landed a position in this field, currently working as a systems development analyst.
+I'm 24 years old and have been passionate about technology since the age of 12, particularly drawn to the realm of information security. However, during my recent years, my first internship in IT sparked a profound interest in programming. I've since landed a position in this field, currently working as a systems development analyst.
 
 Within programming, I'm dedicated to continuous learning and honing my skills across various technologies. Currently, I'm immersed in studying several JavaScript frameworks. Additionally, I'm actively pursuing fluency in English to further augment my capabilities.
 </p>
